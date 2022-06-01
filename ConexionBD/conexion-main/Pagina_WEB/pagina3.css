@@ -1,0 +1,77 @@
+html{
+    height: 100%;
+}
+
+
+body{
+    background-image: linear-gradient(#4682B4	,rgb(173, 216, 230));
+}
+
+table{
+    position: absolute;
+    margin: 10px;
+    width: 500px;
+    text-align: center;
+    top: 100px;
+    right: 100px;
+    left: 50px;
+    
+}
+
+
+th{
+    border: solid 1px black;
+    width: auto ;
+    background-image: linear-gradient(#BC8F8F, rgb(165, 214, 167));
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+td{
+    border: solid 1px black;
+    width: auto;
+    background-image: linear-gradient(#E6E6FA, rgb(224, 255, 255));
+    
+}
+
+.superior {
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    border: 5px double;
+    background-color: #A5D6A7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 30px;
+    margin-top: 0%;
+  }
+
+.imagentec{
+        font-optical-sizing: inherit;
+        padding: 3px 10px;
+        position: absolute;
+        top: 125px;
+        right: 100px;
+        left: 700px;
+        }
+
+        .pagina_2{
+            background-image: linear-gradient(#FFFACD, rgb(165, 214, 167));
+            font-optical-sizing: inherit;
+            margin: 30px;
+            padding: 3px 10px;
+            border:  5px double;
+            border-top-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+            width: 9%;
+            position: absolute;
+            top: 420px;
+            right: 50px;
+            left: 1000px;
+            font-family: monospace;
+            border-color: black;
+          }
+
+
+
+
+ 
